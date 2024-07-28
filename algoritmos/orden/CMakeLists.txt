@@ -1,0 +1,3 @@
+add_subdirectory(fun_existente)
+add_subdirectory(quicksort)
+add_subdirectory(timsort)

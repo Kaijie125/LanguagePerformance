@@ -1,0 +1,4 @@
+add_executable(switch_case_10_cpp switch_case_10.cpp)
+add_executable(switch_case_10_c switch_case_10.c)
+add_jar(switch_case_10_java switch_case_10.java ENTRY_POINT switch_case_10)
+configure_file(switch_case_10.py switch_case_10.py COPYONLY)

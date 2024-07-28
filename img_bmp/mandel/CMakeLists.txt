@@ -1,0 +1,3 @@
+add_subdirectory(mandel_simple)
+add_subdirectory(mandel_hilos)
+add_subdirectory(mandel_cuda)

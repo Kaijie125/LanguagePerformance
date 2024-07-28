@@ -1,0 +1,7 @@
+
+add_subdirectory(if_case_3)
+add_subdirectory(if_case_10)
+add_subdirectory(if_case_1000)
+add_subdirectory(switch_case_3)
+add_subdirectory(switch_case_10)
+add_subdirectory(switch_case_1000)

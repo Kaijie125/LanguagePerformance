@@ -1,0 +1,3 @@
+add_subdirectory(aritmetica_con_buffer)
+add_subdirectory(aritmetica_hilos_buffer)
+add_subdirectory(aritmetica_sin_buffer)
